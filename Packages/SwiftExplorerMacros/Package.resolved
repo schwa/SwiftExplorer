@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "swift-syntax",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-syntax.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "34453e66c22f404a3c13c72d9ecb46c11d995815"
+      }
+    }
+  ],
+  "version" : 2
+}
